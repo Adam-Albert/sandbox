@@ -1,2 +1,2 @@
 # sandbox
-A Sanbox repo for diffrent tests and Demontrations 
+A Sandbox repo for different tests and Demonstrations
